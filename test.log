@@ -1,0 +1,48 @@
+[33mcommit 6a89c2752c351f048fc368f6ad674cc91fe054ba[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;32mcrazyempty[m[33m)[m
+Merge: 24408c1 e5246a6
+Author: Aris Medina <arisjmedina@gmail.com>
+Date:   Tue May 18 14:56:24 2021 +0800
+
+    Merge branch 'master' into crazyempty
+
+[33mcommit 24408c1f2238e4f3eb1488733d24e5702cceb1a9[m
+Author: Aris Medina <arisjmedina@gmail.com>
+Date:   Tue May 18 14:51:31 2021 +0800
+
+    added crazy empty
+
+[33mcommit e5246a648b0fd5bc1b891f7eb2b564759dc6f93c[m
+Author: Aris Medina <arisjmedina@gmail.com>
+Date:   Tue May 18 14:50:22 2021 +0800
+
+    fixed another function
+
+[33mcommit 0ab8c9aae8888ca102ff187cc09779fcc7cd597b[m
+Author: Aris Medina <arisjmedina@gmail.com>
+Date:   Tue May 18 14:36:55 2021 +0800
+
+    changes in title
+
+[33mcommit 0946c1cd5e6248e57f814a1f306fab451b853ac9[m
+Author: Aris Medina <arisjmedina@gmail.com>
+Date:   Tue May 18 14:33:20 2021 +0800
+
+    hellow second
+
+[33mcommit 5df18241c0511ce0f45054eeade7c7a6eb99f9ba[m
+Author: Aris Medina <arisjmedina@gmail.com>
+Date:   Tue May 18 14:32:47 2021 +0800
+
+    second commit
+
+[33mcommit 95a164d9a713d3aa6e3b63da428c712a01419e87[m
+Author: Aris Medina <arisjmedina@gmail.com>
+Date:   Tue May 18 14:31:10 2021 +0800
+
+    second commit
+
+[33mcommit bb1b7241259616cc0870392e0689fa1a09f67857[m
+Author: Aris Medina <arisjmedina@gmail.com>
+Date:   Tue May 18 14:28:45 2021 +0800
+
+    test commit
